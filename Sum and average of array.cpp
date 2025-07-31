@@ -20,3 +20,16 @@ int main() {
 
     return 0;
 }
+
+OUTPUT:
+Enter number of elements: 6
+Enter the elements:11
+22
+33
+44
+55
+66
+Sum: 231
+Average: 38
+
+=== Code Execution Successful ===  
