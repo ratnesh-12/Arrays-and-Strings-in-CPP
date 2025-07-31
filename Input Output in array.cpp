@@ -9,3 +9,12 @@ int main() {
     }
     return 0;
 }
+
+OUTPUT:
+20
+30
+40
+50
+60
+
+=== Code Execution Successful ===
