@@ -23,3 +23,16 @@ int main() {
 
     return 0;
 }
+
+OUTPUT:
+Enter the total number of elements: 6
+Enter element 1:11
+Enter element 2:22
+Enter element 3:33
+Enter element 4:44
+Enter element 5:55
+Enter element 6:66
+In reverse order: 66 55 44 33 22 11 
+
+
+=== Code Execution Successful ===
