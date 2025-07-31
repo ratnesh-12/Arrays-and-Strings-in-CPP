@@ -1,0 +1,22 @@
+#include <iostream>
+using namespace std;
+int main (){
+    int marks[] = {12,24,36,48,60,72,84,96};
+    int i, key;
+    cout<<"Enter the marks to search: ";
+    cin>>key;
+    
+    for(i=0; i<5; i++){
+        if(key == marks[i]){
+            cout<<"Key found at: "<<i+1;
+            break;
+        }
+    }
+    return 0;
+}
+
+OUTPUT:
+Enter the marks to search: 48
+Key found at: 4
+
+=== Code Execution Successful ===
